@@ -26,3 +26,7 @@ O jogo foi construído com foco no controle de baixo nível e otimização de ci
    * **INT 2:** Tecla da Esquerda (Move a nave para a esquerda)
    * **INT 3:** Tecla/Botão de Restart (Reinicia o estado do jogo)
 5. Inicie a execução do simulador (Run).
+
+## Licença
+
+[MIT](LICENSE)
